@@ -2,6 +2,8 @@
 
 A machine learning web application that classifies celestial objects from the Sloan Digital Sky Survey (SDSS) into three categories : **Galaxy**, **Star** or **Quasar** 
 
+![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ---
 
 ## 📌 Overview

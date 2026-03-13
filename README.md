@@ -127,3 +127,4 @@ Raw input → Clean negatives → Scale features → Predict → Decode label
 - 3 classes: GALAXY (59%), STAR (22%), QSO (19%)
 
 ---
+If you liked this repository, kindly give it a star ⭐

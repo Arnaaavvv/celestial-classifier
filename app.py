@@ -190,7 +190,7 @@ CLASS_META = {
         "css": "result-star",
         "label": "STAR",
         "desc": "A luminous sphere of plasma held together by its own gravity.",
-        "redshift_range": "≈ 0 (−0.01 to 0.01)",
+        "redshift_range": "≈ 0",
         "color": "#fbbf24",
     },
     "QSO": {
